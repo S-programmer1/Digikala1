@@ -668,6 +668,7 @@ div.n5 > a > img {
 }
 /* part7 (shegeft angiz supermarkety) */
 div.box8 {
+  width:100%;
   margin: 15px 0;
   height: 120px;
   background-image: url(../media/freshPattern.svg);
