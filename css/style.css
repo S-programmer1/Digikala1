@@ -226,8 +226,9 @@ div.box3 > ul > li > div.submenu > ul > li.n1:hover > div.firstitem {
 
   height: 550px;
 }
-div.box3 > ul > li > div.submenu > ul > li.n1:hover {
+div.box3 > ul > li > div.submenu > ul > li.n1:hover >a{
   color: red;
+  background-color:white;
 }
 div.box3 > ul > li > div.submenu > ul > li.n1 > div.firstitem > a {
   display: flex;
