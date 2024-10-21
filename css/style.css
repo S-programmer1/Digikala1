@@ -22,6 +22,7 @@ div.box1 > a>img {
   width: 100%;
 }
 div.box2 {
+  width:100%;
   height: 68px;
   display: flex;
   align-items: center;
@@ -64,6 +65,7 @@ div.box2 > div.item1 >div> input {
   padding: 0 10px;
 }
 div.box2>span{
+  width:15%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -94,6 +96,7 @@ a.link2 {
 }
 /* part2 (menu) */
 div.box3 {
+  width:100%;
   height: 30px;
   direction: rtl;
   display: flex;
